@@ -29,8 +29,7 @@ Add to `claude_desktop_config.json`:
   "mcpServers": {
     "shortcut": {
       "command": "node",
-      "args": ["/absolute/path/to/shortcut-mcp/index.js"],
-      "env": { "SHORTCUT_API_TOKEN": "your-token-here" }
+      "args": ["/Users/eoan/Sites/webspace/claude-shortcut-mcp/index.js"]
     }
   }
 }
