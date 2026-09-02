@@ -16,7 +16,7 @@ cp example.env .env # and fill in your API token
 npm install
 ```
 
-Token: https://app.shortcut.com/webspace/settings/account/api-tokens
+Token: https://app.shortcut.com/your-shortcut-workspace/settings/account/api-tokens
 
 ## Claude Desktop config
 
